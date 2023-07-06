@@ -1,0 +1,4 @@
+[05-06-23 02:38:20.737] reason = RZSForestCamp x,y,z = 10672,11162,0
+reason = RZSForestCamp x,y,z = 10569,8819,0
+reason = RZSForestCamp x,y,z = 10569,8819,0
+reason = RZSBuryingCamp x,y,z = 11609,7743,0.

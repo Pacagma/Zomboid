@@ -1,0 +1,13 @@
+[31-05-23 21:50:55.099] reason = RVSAmbulanceCrash x,y,z = 8366,11764,0
+reason = RVSAmbulanceCrash x,y,z = 8365,11760,0
+reason = createEatingZombies x,y,z = 8271,11801,0
+reason = createEatingZombies x,y,z = 8272,11801,0
+reason = RBSafehouse x,y,z = 8230,11816,0 room = bedroom
+reason = RBSafehouse x,y,z = 8234,11817,0 room = bathroom
+reason = RBSafehouse x,y,z = 8234,11815,0 room = livingroom
+reason = RBSafehouse x,y,z = 8234,11818,0 room = bathroom
+reason = RBSafehouse x,y,z = 8237,11816,0 room = livingroom
+reason = createEatingZombies x,y,z = 8192,11732,0
+reason = roomSpotted x,y,z = 8219,11720,0 room = livingroom
+reason = RDSBathroomZed x,y,z = 8285,11647,0 room = bathroom
+reason = RDSBathroomZed x,y,z = 8248,11633,0 room = bathroom.

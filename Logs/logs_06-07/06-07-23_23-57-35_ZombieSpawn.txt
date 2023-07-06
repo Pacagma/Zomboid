@@ -1,0 +1,11 @@
+[06-07-23 23:58:13.605] reason = createEatingZombies x,y,z = 11747,8793,0
+reason = RDSHenDo x,y,z = 11694,8780,0 room = livingroom
+reason = RDSHenDo x,y,z = 11695,8780,0 room = livingroom
+reason = RDSHenDo x,y,z = 11694,8779,0 room = livingroom
+reason = RDSHenDo x,y,z = 11695,8779,0 room = livingroom
+reason = RDSHenDo x,y,z = 11694,8781,0 room = livingroom
+reason = RDSHenDo x,y,z = 11696,8783,0 room = livingroom
+reason = createEatingZombies x,y,z = 11664,8721,0
+reason = RVSAmbulanceCrash x,y,z = 11642,8759,0
+reason = RVSAmbulanceCrash x,y,z = 11640,8757,0
+reason = RVSAmbulanceCrash x,y,z = 11641,8755,0.

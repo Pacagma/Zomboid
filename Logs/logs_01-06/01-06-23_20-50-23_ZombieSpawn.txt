@@ -1,0 +1,10 @@
+[01-06-23 20:54:58.900] ================================================================================.
+[01-06-23 20:55:16.212] reason = RVSUtilityVehicle x,y,z = 8102,11437,0
+reason = RVSUtilityVehicle x,y,z = 8105,11440,0
+reason = RVSUtilityVehicle x,y,z = 8105,11438,0
+reason = RVSUtilityVehicle x,y,z = 8104,11433,0
+reason = RVSCarCrash x,y,z = 8062,11479,0
+reason = RVSCarCrash x,y,z = 8064,11479,0
+reason = RVSCarCrash x,y,z = 8061,11474,0
+reason = createEatingZombies x,y,z = 8052,11366,0
+reason = createEatingZombies x,y,z = 8053,11366,0.

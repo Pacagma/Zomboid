@@ -1,0 +1,5 @@
+[02-06-23 00:36:38.628][info] Init chat system....
+[02-06-23 00:36:38.628][info] Mode: multiplayer.
+[02-06-23 00:36:38.629][info] Chat owner: Pacagma.
+[02-06-23 00:37:20.146][info] Got message from server: ChatMessage{chat=Local, author='Lapi', text='HEY YOU!'}.
+[02-06-23 00:37:22.092][info] Got message from server: ChatMessage{chat=Local, author='Lapi', text='HEY YOU!'}.

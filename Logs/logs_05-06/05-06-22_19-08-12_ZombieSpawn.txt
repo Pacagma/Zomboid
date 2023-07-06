@@ -1,0 +1,10 @@
+[05-06-22 19:19:43.772] reason = GlobalObject x,y,z = 165,154,0
+reason = GlobalObject x,y,z = 166,147,0
+reason = LuaManager.createZombie x,y,z = 165,147,0
+reason = LuaManager.createZombie x,y,z = 165,147,0
+reason = GlobalObject x,y,z = 182,147,0
+reason = GlobalObject x,y,z = 181,147,0
+reason = LuaManager.createZombie x,y,z = 181,147,0
+reason = LuaManager.createZombie x,y,z = 181,147,0
+reason = LuaManager.createZombie x,y,z = 181,147,0
+reason = LuaManager.createZombie x,y,z = 181,147,0.

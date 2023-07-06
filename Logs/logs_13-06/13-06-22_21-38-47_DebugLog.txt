@@ -1,0 +1,107 @@
+[13-06-22 21:38:47.841] LOG  : General     , 1655149127841> cachedir set to "C:\Users\User\Zomboid".
+[13-06-22 21:38:47.939] LOG  : General     , 1655149127939> 13-06-2022 21:38:47.
+[13-06-22 21:38:47.939] LOG  : General     , 1655149127939> cachedir is "C:\Users\User\Zomboid".
+[13-06-22 21:38:47.940] LOG  : General     , 1655149127940> LogFileDir is "C:\Users\User\Zomboid\Logs".
+[13-06-22 21:38:47.940] LOG  : General     , 1655149127940> ===== System specs =====.
+[13-06-22 21:38:47.968] LOG  : General     , 1655149127968> OS: Windows 10, version: 10.0, arch: amd64.
+[13-06-22 21:38:47.968] LOG  : General     , 1655149127968> Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD.
+[13-06-22 21:38:47.969] LOG  : General     , 1655149127969> Processor cores: 16.
+[13-06-22 21:38:47.970] LOG  : General     , 1655149127970> Available processors (cores): 16.
+[13-06-22 21:38:47.976] LOG  : General     , 1655149127976> Memory free: 364.0 MB.
+[13-06-22 21:38:47.976] LOG  : General     , 1655149127976> Memory max: 3072.0 MB.
+[13-06-22 21:38:47.977] LOG  : General     , 1655149127977> Memory  total available to JVM: 384.0 MB.
+[13-06-22 21:38:47.991] LOG  : General     , 1655149127991> C:\, Total: 110.49226 GB, Free: 1.691494 GB.
+[13-06-22 21:38:47.991] LOG  : General     , 1655149127991> D:\, Total: 931.51074 GB, Free: 232.18365 GB.
+[13-06-22 21:38:47.992] LOG  : General     , 1655149127992> E:\, Total: 1863.0146 GB, Free: 112.1201 GB.
+[13-06-22 21:38:48.177] LOG  : General     , 1655149128177> Mobo = [Product=TUF B450M-PLUS GAMING].
+[13-06-22 21:38:48.306] LOG  : General     , 1655149128305> CPU = [Manufacturer=AuthenticAMD,MaxClockSpeed=3700,Name=AMD Ryzen 7 2700X Eight-Core Processor].
+[13-06-22 21:38:48.452] LOG  : General     , 1655149128452> Graphics = [AdapterRAM=4293918720,DriverVersion=30.0.15.1215,Name=NVIDIA GeForce RTX 2060 SUPER].
+[13-06-22 21:38:48.584] LOG  : General     , 1655149128584> VideoMode = [VideoModeDescription=1920 x 1080 x 4294967296 colors].
+[13-06-22 21:38:48.727] LOG  : General     , 1655149128726> Sound = { [Manufacturer=NVIDIA,Name=NVIDIA High Definition Audio], [Manufacturer=GAMDIAS Technology Co., Ltd.,Name=GAMDIAS GAMING HEADSET], [Manufacturer=NVIDIA,Name=NVIDIA Virtual Audio Device (Wave Extensible) (WDM)], [Manufacturer=Microsoft,Name=High Definition Audio Device], [Manufacturer=Dev47Apps.com,Name=DroidCam Virtual Audio], [Manufacturer=Oculus,Name=Oculus Virtual Audio Device], [Manufacturer=Virtual Desktop,Name=Virtual Desktop Audio] }.
+[13-06-22 21:38:48.866] LOG  : General     , 1655149128866> Memory RAM = { [Capacity=8589934592,Manufacturer=Kingston], [Capacity=8589934592,Manufacturer=Kingston], [Capacity=8589934592,Manufacturer=Kingston] }.
+[13-06-22 21:38:48.867] LOG  : General     , 1655149128866> ========================.
+[13-06-22 21:38:48.867] LOG  : General     , 1655149128867> -- listing properties --.
+[13-06-22 21:38:48.868] LOG  : General     , 1655149128868> java.specification.version=17.
+[13-06-22 21:38:48.868] LOG  : General     , 1655149128868> sun.cpu.isalist=amd64.
+[13-06-22 21:38:48.869] LOG  : General     , 1655149128869> sun.jnu.encoding=MS932.
+[13-06-22 21:38:48.869] LOG  : General     , 1655149128869> java.class.path=.;commons-compress-1.18.jar;istack-co....
+[13-06-22 21:38:48.870] LOG  : General     , 1655149128870> java.vm.vendor=Azul Systems, Inc..
+[13-06-22 21:38:48.870] LOG  : General     , 1655149128870> sun.arch.data.model=64.
+[13-06-22 21:38:48.871] LOG  : General     , 1655149128871> user.variant=.
+[13-06-22 21:38:48.871] LOG  : General     , 1655149128871> java.vendor.url=http://www.azul.com/.
+[13-06-22 21:38:48.871] LOG  : General     , 1655149128871> user.timezone=Europe/Zagreb.
+[13-06-22 21:38:48.871] LOG  : General     , 1655149128871> zomboid.steam=1.
+[13-06-22 21:38:48.872] LOG  : General     , 1655149128872> java.vm.specification.version=17.
+[13-06-22 21:38:48.872] LOG  : General     , 1655149128872> os.name=Windows 10.
+[13-06-22 21:38:48.872] LOG  : General     , 1655149128872> user.country=GB.
+[13-06-22 21:38:48.873] LOG  : General     , 1655149128872> sun.boot.library.path=E:\SteamLibrary\steamapps\common\Proj....
+[13-06-22 21:38:48.873] LOG  : General     , 1655149128873> zomboid.znetlog=1.
+[13-06-22 21:38:48.873] LOG  : General     , 1655149128873> jdk.debug=release.
+[13-06-22 21:38:48.873] LOG  : General     , 1655149128873> sun.cpu.endian=little.
+[13-06-22 21:38:48.874] LOG  : General     , 1655149128874> user.home=C:\Users\User.
+[13-06-22 21:38:48.874] LOG  : General     , 1655149128874> user.language=en.
+[13-06-22 21:38:48.874] LOG  : General     , 1655149128874> java.specification.vendor=Oracle Corporation.
+[13-06-22 21:38:48.874] LOG  : General     , 1655149128874> java.version.date=2021-10-19.
+[13-06-22 21:38:48.875] LOG  : General     , 1655149128875> java.home=E:\SteamLibrary\steamapps\common\Proj....
+[13-06-22 21:38:48.875] LOG  : General     , 1655149128875> file.separator=\.
+[13-06-22 21:38:48.875] LOG  : General     , 1655149128875> java.vm.compressedOopsMode=Zero based.
+[13-06-22 21:38:48.875] LOG  : General     , 1655149128875> line.separator=.
+[13-06-22 21:38:48.876] LOG  : General     , 1655149128876> java.vm.specification.vendor=Oracle Corporation.
+[13-06-22 21:38:48.876] LOG  : General     , 1655149128876> java.specification.name=Java Platform API Specification.
+[13-06-22 21:38:48.876] LOG  : General     , 1655149128876> java.awt.headless=true.
+[13-06-22 21:38:48.876] LOG  : General     , 1655149128876> user.script=.
+[13-06-22 21:38:48.877] LOG  : General     , 1655149128877> sun.management.compiler=HotSpot 64-Bit Tiered Compilers.
+[13-06-22 21:38:48.877] LOG  : General     , 1655149128877> java.runtime.version=17.0.1+12-LTS.
+[13-06-22 21:38:48.877] LOG  : General     , 1655149128877> user.name=User.
+[13-06-22 21:38:48.878] LOG  : General     , 1655149128877> path.separator=;.
+[13-06-22 21:38:48.878] LOG  : General     , 1655149128878> os.version=10.0.
+[13-06-22 21:38:48.878] LOG  : General     , 1655149128878> java.runtime.name=OpenJDK Runtime Environment.
+[13-06-22 21:38:48.878] LOG  : General     , 1655149128878> file.encoding=Cp1252.
+[13-06-22 21:38:48.879] LOG  : General     , 1655149128879> java.vm.name=OpenJDK 64-Bit Server VM.
+[13-06-22 21:38:48.879] LOG  : General     , 1655149128879> java.vendor.version=Zulu17.30+15-CA.
+[13-06-22 21:38:48.879] LOG  : General     , 1655149128879> java.vendor.url.bug=http://www.azul.com/support/.
+[13-06-22 21:38:48.880] LOG  : General     , 1655149128879> java.io.tmpdir=C:\Users\User\AppData\Local\Temp\.
+[13-06-22 21:38:48.880] LOG  : General     , 1655149128880> java.version=17.0.1.
+[13-06-22 21:38:48.880] LOG  : General     , 1655149128880> user.dir=E:\SteamLibrary\steamapps\common\Proj....
+[13-06-22 21:38:48.880] LOG  : General     , 1655149128880> os.arch=amd64.
+[13-06-22 21:38:48.881] LOG  : General     , 1655149128881> java.vm.specification.name=Java Virtual Machine Specification.
+[13-06-22 21:38:48.881] LOG  : General     , 1655149128881> sun.os.patch.level=.
+[13-06-22 21:38:48.881] LOG  : General     , 1655149128881> native.encoding=Cp1252.
+[13-06-22 21:38:48.881] LOG  : General     , 1655149128881> java.library.path=win64/;..
+[13-06-22 21:38:48.882] LOG  : General     , 1655149128882> java.vm.info=mixed mode, sharing.
+[13-06-22 21:38:48.882] LOG  : General     , 1655149128882> java.vendor=Azul Systems, Inc..
+[13-06-22 21:38:48.882] LOG  : General     , 1655149128882> java.vm.version=17.0.1+12-LTS.
+[13-06-22 21:38:48.883] LOG  : General     , 1655149128883> sun.io.unicode.encoding=UnicodeLittle.
+[13-06-22 21:38:48.884] LOG  : General     , 1655149128883> java.class.version=61.0.
+[13-06-22 21:38:48.884] LOG  : General     , 1655149128884> -----.
+[13-06-22 21:38:48.884] LOG  : General     , 1655149128884> versionNumber=41.71 demo=false.
+[13-06-22 21:38:48.885] LOG  : General     , 1655149128885> svnRevision= date= time=.
+[13-06-22 21:38:50.564] LOG  : General     , 1655149130564> LightingFPS set to 60.
+[13-06-22 21:38:50.594] LOG  : General     , 1655149130594> [javafmodJNI] Init: Start.
+[13-06-22 21:38:50.594] LOG  : General     , 1655149130594> [javafmodJNI] Init: WIN 64.
+[13-06-22 21:38:50.906] LOG  : General     , 1655149130906> closest width=640 freq=59.
+[13-06-22 21:38:50.906] LOG  : General     , 1655149130906> closest width=640 freq=60.
+[13-06-22 21:38:50.906] LOG  : General     , 1655149130906> closest width=640 freq=72.
+[13-06-22 21:38:50.906] LOG  : General     , 1655149130906> closest width=640 freq=75.
+[13-06-22 21:38:50.907] LOG  : General     , 1655149130907> closest width=720 freq=59.
+[13-06-22 21:38:50.907] LOG  : General     , 1655149130907> closest width=720 freq=60.
+[13-06-22 21:38:50.907] LOG  : General     , 1655149130907> closest width=800 freq=56.
+[13-06-22 21:38:50.907] LOG  : General     , 1655149130907> closest width=800 freq=60.
+[13-06-22 21:38:50.907] LOG  : General     , 1655149130907> closest width=800 freq=72.
+[13-06-22 21:38:50.908] LOG  : General     , 1655149130908> closest width=800 freq=75.
+[13-06-22 21:38:50.908] LOG  : General     , 1655149130908> closest width=1176 freq=50.
+[13-06-22 21:38:50.908] LOG  : General     , 1655149130908> closest width=1176 freq=59.
+[13-06-22 21:38:50.908] LOG  : General     , 1655149130908> closest width=1176 freq=60.
+[13-06-22 21:38:50.908] LOG  : General     , 1655149130908> closest width=1280 freq=50.
+[13-06-22 21:38:50.909] LOG  : General     , 1655149130909> closest width=1280 freq=59.
+[13-06-22 21:38:50.909] LOG  : General     , 1655149130909> closest width=1280 freq=60.
+[13-06-22 21:38:50.909] LOG  : General     , 1655149130909> closest width=1360 freq=60.
+[13-06-22 21:38:50.909] LOG  : General     , 1655149130909> closest width=1366 freq=60.
+[13-06-22 21:38:50.910] LOG  : General     , 1655149130909> closest width=1440 freq=60.
+[13-06-22 21:38:50.910] LOG  : General     , 1655149130910> closest width=1600 freq=59.
+[13-06-22 21:38:50.910] LOG  : General     , 1655149130910> closest width=1600 freq=60.
+[13-06-22 21:38:50.910] LOG  : General     , 1655149130910> closest width=1680 freq=59.
+[13-06-22 21:38:50.910] LOG  : General     , 1655149130910> closest width=1680 freq=60.
+[13-06-22 21:38:50.911] LOG  : General     , 1655149130911> closest width=1920 freq=50.
+[13-06-22 21:38:50.911] LOG  : General     , 1655149130911> closest width=1920 freq=59.
+[13-06-22 21:38:51.190] LOG  : General     , 1655149131190> 1655149131188 fmod: Java loging: OK.

@@ -1,0 +1,37 @@
+[01-06-23 00:31:54.178] reason = RDSStudentNight x,y,z = 8279,11620,0 room = livingroom
+reason = RDSStudentNight x,y,z = 8284,11617,0 room = livingroom
+reason = RDSStudentNight x,y,z = 8288,11620,0 room = bedroom
+reason = RDSStudentNight x,y,z = 8286,11618,0 room = bedroom
+reason = RDSPrisonEscapeWithPolice x,y,z = 8278,11589,0 room = livingroom
+reason = RDSPrisonEscapeWithPolice x,y,z = 8279,11591,0 room = livingroom
+reason = RDSPrisonEscapeWithPolice x,y,z = 8278,11588,0 room = livingroom
+reason = RDSPrisonEscapeWithPolice x,y,z = 8279,11589,0 room = livingroom
+reason = RDSPrisonEscapeWithPolice x,y,z = 8265,11592,0
+reason = RDSPrisonEscapeWithPolice x,y,z = 8265,11592,0
+reason = RDSPrisonEscapeWithPolice x,y,z = 8265,11592,0
+reason = RDSBathroomZed x,y,z = 8248,11633,0 room = bathroom
+reason = RBSafehouse x,y,z = 8241,11551,0 room = bathroom
+reason = RBSafehouse x,y,z = 8239,11560,0 room = hall
+reason = RBBurntFireman x,y,z = 8309,11693,0 room = livingroom
+reason = createEatingZombies x,y,z = 8432,11715,0
+reason = createEatingZombies x,y,z = 8433,11715,0.
+[01-06-23 00:41:58.745] reason = createEatingZombies x,y,z = 8433,11714,0
+reason = RVSChangingTire x,y,z = 8370,11721,0
+reason = RVSChangingTire x,y,z = 8367,11727,0
+reason = createEatingZombies x,y,z = 8224,11669,0
+reason = createEatingZombies x,y,z = 8225,11669,0
+reason = RVSChangingTire x,y,z = 8206,11778,0
+reason = RVSChangingTire x,y,z = 8200,11776,0
+reason = roomSpotted x,y,z = 8284,11637,0 room = bedroom
+reason = createEatingZombies x,y,z = 8181,11665,0
+reason = RDSBathroomZed x,y,z = 8168,11631,0 room = bathroom
+reason = RBSafehouse x,y,z = 8167,11597,1 room = bedroom
+reason = RBSafehouse x,y,z = 8170,11604,0 room = kitchen
+reason = RBSafehouse x,y,z = 8170,11600,1 room = bathroom
+reason = RBSafehouse x,y,z = 8167,11597,1 room = bedroom
+reason = RBSafehouse x,y,z = 8168,11600,1 room = bathroom
+reason = RBSafehouse x,y,z = 8170,11602,1 room = bedroom
+reason = roomSpotted x,y,z = 8219,11631,1 room = bedroom
+reason = roomSpotted x,y,z = 8227,11634,0 room = garagestorage
+reason = roomSpotted x,y,z = 8206,11638,1 room = bathroom.
+[01-06-23 00:43:11.638] ================================================================================.

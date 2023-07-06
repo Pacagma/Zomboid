@@ -1,0 +1,14 @@
+[01-06-23 21:36:17.315] LOG  : General     , 1685648177315> 19,151,207> cachedir set to "C:\Users\User\Zomboid".
+[01-06-23 21:36:17.427] LOG  : General     , 1685648177427> 19,151,320> version=41.78.16 demo=false.
+[01-06-23 21:36:17.428] LOG  : General     , 1685648177428> 19,151,321> revision= date= time=.
+[01-06-23 21:36:17.452] LOG  : General     , 1685648177452> 19,151,345> server name is "servertest".
+[01-06-23 21:36:17.454] LOG  : General     , 1685648177453> 19,151,346> map_t.bin does not exist, cannot determine the server's WorldVersion.  This is ok the first time a server is started..
+[01-06-23 21:36:17.455] LOG  : General     , 1685648177455> 19,151,348> Loading networking libraries....
+[01-06-23 21:36:17.456] LOG  : General     , 1685648177456> 19,151,349> Loading steam_api64....
+[01-06-23 21:36:17.467] LOG  : General     , 1685648177466> 19,151,359> Loading RakNet64....
+[01-06-23 21:36:17.469] LOG  : General     , 1685648177469> 19,151,362> Loading ZNetJNI64....
+[01-06-23 21:36:17.499] LOG  : Network     , 1685648177499> 19,151,391> [01-06-23 21:36:17.498] > ZNet: SetLogLevel 1.
+[01-06-23 21:36:17.500] LOG  : Network     , 1685648177500> 19,151,393> [01-06-23 21:36:17.500] > ZNet: Compiled with SERVER_STEAMAPI == 0.
+[01-06-23 21:36:17.501] LOG  : Network     , 1685648177501> 19,151,393> [01-06-23 21:36:17.501] > ZNet: Starting with bServer == true.
+[01-06-23 21:36:17.501] LOG  : Network     , 1685648177501> 19,151,394> [01-06-23 21:36:17.501] > ZNet: SteamAPI initialised successfully.
+[01-06-23 21:36:17.502] LOG  : General     , 1685648177502> 19,151,394> SteamUtils initialised successfully.

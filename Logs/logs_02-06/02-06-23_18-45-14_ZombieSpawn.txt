@@ -1,0 +1,4 @@
+[02-06-23 18:47:30.700] reason = createEatingZombies x,y,z = 8137,11227,0
+reason = createEatingZombies x,y,z = 8138,11227,0
+reason = createEatingZombies x,y,z = 8138,11226,0
+reason = roomSpotted x,y,z = 8071,11348,0 room = janitor.

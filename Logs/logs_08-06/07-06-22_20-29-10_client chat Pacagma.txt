@@ -1,0 +1,3 @@
+[07-06-22 20:29:10.592][info] Init chat system....
+[07-06-22 20:29:10.593][info] Mode: multiplayer.
+[07-06-22 20:29:10.593][info] Chat owner: Pacagma.

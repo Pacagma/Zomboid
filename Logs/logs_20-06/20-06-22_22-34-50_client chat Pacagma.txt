@@ -1,0 +1,3 @@
+[20-06-22 22:34:50.087][info] Init chat system....
+[20-06-22 22:34:50.088][info] Mode: single player.
+[20-06-22 22:34:50.088][info] Chat owner: Pacagma.

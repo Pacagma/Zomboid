@@ -1,0 +1,66 @@
+[31-05-23 21:55:07.176] reason = createEatingZombies x,y,z = 8267,11551,0
+reason = createEatingZombies x,y,z = 8235,11539,0
+reason = createEatingZombies x,y,z = 8258,11533,0
+reason = createEatingZombies x,y,z = 8138,11537,0
+reason = createEatingZombies x,y,z = 8139,11537,0
+reason = createEatingZombies x,y,z = 8139,11536,0.
+[31-05-23 21:56:21.883] ================================================================================.
+[31-05-23 22:08:28.964] reason = RVSUtilityVehicle x,y,z = 8108,11665,0
+reason = RVSUtilityVehicle x,y,z = 8104,11665,0
+reason = RVSUtilityVehicle x,y,z = 8109,11662,0
+reason = createEatingZombies x,y,z = 8146,11636,0
+reason = createEatingZombies x,y,z = 7964,11687,0
+reason = createEatingZombies x,y,z = 7965,11687,0
+reason = createEatingZombies x,y,z = 7965,11686,0
+reason = RVSConstructionSite x,y,z = 7967,11662,0
+reason = RVSConstructionSite x,y,z = 7964,11663,0
+reason = RVSConstructionSite x,y,z = 7967,11660,0
+reason = createEatingZombies x,y,z = 7954,11656,0.
+[31-05-23 22:09:04.585] ================================================================================.
+[31-05-23 22:35:24.956] reason = createEatingZombies x,y,z = 8195,11733,0
+reason = RBSafehouse x,y,z = 8221,11723,0 room = bedroom
+reason = RBSafehouse x,y,z = 8219,11720,0 room = livingroom
+reason = roomSpotted x,y,z = 8141,11729,0 room = office
+reason = roomSpotted x,y,z = 8148,11737,0 room = garage
+reason = roomSpotted x,y,z = 8154,11743,0 room = garage
+reason = createEatingZombies x,y,z = 8272,11788,0.
+[31-05-23 22:36:19.477] ================================================================================.
+[31-05-23 22:37:38.608] reason = RVSCarCrash x,y,z = 8392,11667,0
+reason = RVSCarCrash x,y,z = 8388,11665,0
+reason = RVSChangingTire x,y,z = 8363,11676,0
+reason = RVSChangingTire x,y,z = 8364,11676,0.
+[31-05-23 22:38:41.220] ================================================================================.
+[31-05-23 22:38:47.945] reason = createEatingZombies x,y,z = 8357,11729,0
+reason = createEatingZombies x,y,z = 8358,11729,0
+reason = createEatingZombies x,y,z = 8358,11728,0.
+[31-05-23 22:39:32.324] ================================================================================.
+[31-05-23 22:39:37.672] reason = RVSCarCrash x,y,z = 8363,11775,0
+reason = RVSCarCrash x,y,z = 8362,11777,0
+reason = RVSCarCrash x,y,z = 8360,11774,0
+reason = createEatingZombies x,y,z = 8347,11748,0.
+[31-05-23 22:40:47.214] ================================================================================.
+[31-05-23 22:40:55.157] reason = createEatingZombies x,y,z = 8250,11624,0
+reason = createEatingZombies x,y,z = 8251,11624,0
+reason = createEatingZombies x,y,z = 8251,11623,0
+reason = createEatingZombies x,y,z = 8238,11739,0
+reason = RBBurntFireman x,y,z = 8177,11638,0 room = livingroom
+reason = RBBurntFireman x,y,z = 8175,11639,0 room = livingroom
+reason = createEatingZombies x,y,z = 8175,11606,0
+reason = createEatingZombies x,y,z = 8176,11606,0
+reason = createEatingZombies x,y,z = 8176,11605,0.
+[31-05-23 22:41:41.675] ================================================================================.
+[31-05-23 22:41:47.886] reason = RDSFootballNight x,y,z = 8363,11805,0 room = livingroom
+reason = RDSFootballNight x,y,z = 8362,11804,0 room = livingroom
+reason = RDSFootballNight x,y,z = 8362,11804,0 room = livingroom
+reason = RDSFootballNight x,y,z = 8360,11806,0 room = livingroom
+reason = RDSFootballNight x,y,z = 8361,11808,0 room = livingroom.
+[31-05-23 22:42:36.768] ================================================================================.
+[31-05-23 22:46:42.163] reason = createEatingZombies x,y,z = 8168,11650,0
+reason = createEatingZombies x,y,z = 8154,11741,0 room = garage
+reason = createEatingZombies x,y,z = 8155,11741,0 room = garage
+reason = createEatingZombies x,y,z = 8140,11758,0
+reason = RVSCarCrash x,y,z = 8137,11776,0
+reason = RVSCarCrash x,y,z = 8134,11776,0
+reason = RVSCarCrash x,y,z = 8135,11775,0
+reason = RVSCarCrash x,y,z = 8136,11775,0
+reason = createEatingZombies x,y,z = 8093,11635,0.
