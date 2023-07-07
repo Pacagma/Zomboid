@@ -1,0 +1,31 @@
+[08-07-23 00:31:12.753] reason = createEatingZombies x,y,z = 8106,11407,0
+reason = createEatingZombies x,y,z = 8107,11407,0
+reason = createEatingZombies x,y,z = 8107,11406,0
+reason = RBShopLooted x,y,z = 8089,11516,0 room = bookstore
+reason = RBShopLooted x,y,z = 8088,11513,0 room = bookstore
+reason = RBShopLooted x,y,z = 8093,11514,0 room = bookstore
+reason = RBShopLooted x,y,z = 8088,11514,0 room = bookstore
+reason = RBShopLooted x,y,z = 8093,11512,0 room = bookstore
+reason = RBShopLooted x,y,z = 8089,11513,0 room = bookstore
+reason = RBShopLooted x,y,z = 8089,11513,0 room = bookstore
+reason = RDSPokerNight x,y,z = 8238,11553,0 room = kitchen
+reason = RDSPokerNight x,y,z = 8235,11550,0 room = kitchen
+reason = RDSPokerNight x,y,z = 8235,11554,0 room = kitchen
+reason = RDSPokerNight x,y,z = 8238,11551,0 room = kitchen
+reason = RDSPokerNight x,y,z = 8235,11553,0 room = kitchen.
+[08-07-23 00:34:45.219] ================================================================================.
+[08-07-23 00:44:48.518] ================================================================================.
+[08-07-23 00:49:06.618] reason = createEatingZombies x,y,z = 8023,11317,0
+reason = createEatingZombies x,y,z = 8024,11317,0
+reason = createEatingZombies x,y,z = 8024,11316,0
+reason = createEatingZombies x,y,z = 8198,11302,0
+reason = createEatingZombies x,y,z = 8199,11302,0
+reason = roomSpotted x,y,z = 8156,11333,0 room = mechanic
+reason = roomSpotted x,y,z = 8154,11324,0 room = mechanic
+reason = roomSpotted x,y,z = 8150,11333,0 room = mechanic.
+[08-07-23 00:55:04.003] ================================================================================.
+[08-07-23 00:55:39.717] reason = RVSConstructionSite x,y,z = 8104,11354,0
+reason = RVSConstructionSite x,y,z = 8101,11357,0
+reason = RVSConstructionSite x,y,z = 8107,11353,0
+reason = RVSConstructionSite x,y,z = 8102,11356,0
+reason = RVSConstructionSite x,y,z = 8102,11356,0.
