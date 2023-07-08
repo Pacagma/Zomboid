@@ -1,2 +1,2 @@
-Burglar:burglar;Obese;HighThirst;Pacifist;Smoker;WeakStomach;SpeedDemon;NightVision;Dextrous;FastReader;Outdoorsman;Stout;
+Burglar:burglar;Obese;HighThirst;Pacifist;Smoker;WeakStomach;SpeedDemon;NightVision;Dextrous;FastReader;Outdoorsman;Stout;ThickSkinned;
 Mechanic:mechanics;HighThirst;Pacifist;Smoker;WeakStomach;SpeedDemon;NightVision;Dextrous;Outdoorsman;KeenHearing;
