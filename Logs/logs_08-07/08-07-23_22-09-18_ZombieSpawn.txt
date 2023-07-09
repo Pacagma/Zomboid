@@ -1,0 +1,3 @@
+[08-07-23 22:10:31.429] reason = RDSFootballNight x,y,z = 8237,11815,0 room = livingroom
+reason = RDSFootballNight x,y,z = 8235,11816,0 room = livingroom
+reason = RDSFootballNight x,y,z = 8237,11816,0 room = livingroom.
